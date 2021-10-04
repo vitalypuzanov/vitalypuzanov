@@ -9,12 +9,12 @@
 - 🎉 I love to play football and volleyball 
 - 🥅 I am constantly learning new things
 - 🤹🏽  I like different activities
-- 👩‍🎓 Now I am studying in ItechArt
+- 👩‍🎓 Now I am studying inItechAr
 
 ### Connect with me:
 
 
-[<img align="left" alt="VitalyPuzanov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 [<img align="left" alt="VitalyPuzanov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="VitalyPuzanov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="VitalyPuzanov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
