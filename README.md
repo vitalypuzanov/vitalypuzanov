@@ -9,7 +9,7 @@
 - 🎉 I love to play football and volleyball 
 - 🥅 I am constantly learning new things
 - 🤹🏽  I like different activities
-- 👩‍🎓 Now I am studying inItechAr
+- 👩‍🎓 Now I am studying in ItechArt
 
 ### Connect with me:
 
